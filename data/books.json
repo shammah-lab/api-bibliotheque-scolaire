@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1795545941816,
+    "titre": "JavaScript pour les débutants",
+    "auteur": "John Doe",
+    "categorie": "Développement Web",
+    "annee": 2025
+  },
+  {
+    "id": 1795635205229,
+    "titre": "Introduction à JavaScript",
+    "auteur": "John Doe",
+    "categorie": "Informatique",
+    "annee": 2024
+  }
+]

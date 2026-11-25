@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1795534073899,
+    "nom": "Shammah",
+    "email": "shammah@test.com",
+    "password": "$2b$10$qV/RS2hiriyixNgZN.2tUe.49.eVekCD.9lMKhPIAk7giatHibXpC"
+  },
+  {
+    "id": 1795630009253,
+    "nom": "Utilisateur Test",
+    "email": "test2@bibliotheque.com",
+    "password": "$2b$10$LcoxdM0LXGlpocId.LI7.ehrzjh8vsPnQ14hS2gTiKpHCfXFg/tuG"
+  }
+]
